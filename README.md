@@ -35,7 +35,7 @@
 - linkedIn: www.linkedin.com/in/azman-khan-64315228b
 
 
----
+---  
 
 ## ⚡ Fun Fact
 I made a homemade bow that shoots up to 70 meters — and yes, it works! 🏹
@@ -43,9 +43,9 @@ I made a homemade bow that shoots up to 70 meters — and yes, it works! 🏹
 ---
 
 ## 📁 Projects I'm Proud Of
-- 🎓 [Student Fee Tracker in Excel](#)
+- 🎓 [Student Fee Tracker in Excel](https://docs.google.com/spreadsheets/d/1ExN1NtBopbMuhgAS_ixpnB7C8SAKcm9oMeJC63LUW8/edit?usp=sharing)
 - 🌐 [Company Website for E-SupportbyAizaz](#)
-- 📋 [Google Forms for E-Visa, CV, and Ads](#)
+- 📋 [Google Forms for E-Visa, CV, and Ads](https://forms.gle/QcJwWUsw8twsBdJc8)
 
 ---
 
