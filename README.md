@@ -32,7 +32,7 @@
 ## 📫 How to Reach Me
 - 📧 Email: pirazmanalikhan@gmail.com  
 - 📱 Phone: 03305084260
-- [linkedIn](www.linkedin.com/in/azman-khan-64315228b)
+- linkedIn: www.linkedin.com/in/azman-khan-64315228b
 
 
 ---  
