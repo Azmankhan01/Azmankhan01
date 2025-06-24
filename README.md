@@ -49,13 +49,5 @@ I made a homemade bow that shoots up to 70 meters — and yes, it works! 🏹
 
 ---
 
-## 🛠 Tech Stack
-![HTML]()
-![CSS](https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=white)
-![WordPress](https://img.shields.io/badge/WordPress-21759B?logo=wordpress&logoColor=white)
-![Excel](https://img.shields.io/badge/Excel-217346?logo=microsoft-excel&logoColor=white)
-
----
-
 ✨ _“Every great developer you know started from Hello World.”_  
 Let’s connect and build something amazing! 🚀
