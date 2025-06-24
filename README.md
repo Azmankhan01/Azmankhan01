@@ -12,7 +12,7 @@
 - 📄 Resume & CV Designing
 - ✨ Learning new tech tools and AI systems
 - 🎯 Freelancing & Online Business
-
+- 💡 I would love to make an electric car if i essential tools
 ---
 
 ## 🌱 Currently Learning
@@ -24,7 +24,7 @@
 
 ## 🤝 Looking to Collaborate On
 - Web development projects
-- Freelancing gigs (WordPress, Resume sites)
+- Freelancing & Fiverr gigs (WordPress, Resume sites)
 - Google Form automations
 
 ---
@@ -32,7 +32,7 @@
 ## 📫 How to Reach Me
 - 📧 Email: pirazmanalikhan@gmail.com  
 - 📱 Phone: 03305084260
-- linkedIn: www.linkedin.com/in/azman-khan-64315228b
+- [linkedIn](www.linkedin.com/in/azman-khan-64315228b)
 
 
 ---  
@@ -43,14 +43,14 @@ I made a homemade bow that shoots up to 70 meters — and yes, it works! 🏹
 ---
 
 ## 📁 Projects I'm Proud Of
-- 🎓 [Student Fee Tracker in Excel](https://docs.google.com/spreadsheets/d/1-ExN1NtBopbMuhgAS_ixpnB7C8SAKcm9oMeJC63LUW8/edit?usp=sharing)
+- 🎓 [Student Fee Tracker and daily expense and income tracker in Google Sheets](https://docs.google.com/spreadsheets/d/1-ExN1NtBopbMuhgAS_ixpnB7C8SAKcm9oMeJC63LUW8/edit?usp=sharing)
 - 🌐 [Company Website for E-SupportbyAizaz](#)
 - 📋 [Google Forms for E-Visa, CV, and Ads](https://forms.gle/QcJwWUsw8twsBdJc8)
 
 ---
 
 ## 🛠 Tech Stack
-![HTML](https://img.shields.io/badge/HTML-E34F26?logo=html5&logoColor=white)
+![HTML]()
 ![CSS](https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=white)
 ![WordPress](https://img.shields.io/badge/WordPress-21759B?logo=wordpress&logoColor=white)
 ![Excel](https://img.shields.io/badge/Excel-217346?logo=microsoft-excel&logoColor=white)
