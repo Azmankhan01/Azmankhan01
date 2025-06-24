@@ -12,7 +12,7 @@
 - 📄 Resume & CV Designing
 - ✨ Learning new tech tools and AI systems
 - 🎯 Freelancing & Online Business
-- 💡 I would love to make an electric car if i essential tools
+- 💡 I would love to make an electric car if i get essential tools
 ---
 
 ## 🌱 Currently Learning
